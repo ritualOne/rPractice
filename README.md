@@ -1,0 +1,1 @@
+This project is for me to practice my rust programming ability from scratch
